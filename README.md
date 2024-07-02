@@ -1,4 +1,4 @@
-# EPH_pobreza
+# Estimación de la pobreza monetaria en Argentina
 Este repositorio incluye:
 1. la metodología que el Instituto Nacional de Estadísticas y Censos (INDEC) publicó en 2016.
 2. un do-file para el cálculo de la pobreza en Argentina utilizando las bases de microdatos de la Encuesta Permanente de Hogares (EPH), las cuales se encuentran disponibles en el sitio web del INDEC (https://www.indec.gob.ar/).
