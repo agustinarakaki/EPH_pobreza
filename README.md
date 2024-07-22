@@ -10,3 +10,4 @@ Aclaraciones:
 2. El do-file no arroja exactamente lo mismo que el INDEC. Estas leves discrepancias podrían estar explicadas por: 
 a) la forma en la que se construye la base semestral. En este caso se juntan dos bases trimestrales y se calcula el promedio de los ponderadores. Existen formas más sofisticadas de obtener una base semestral, pero ninguna es perfecta
 b) las líneas que se utilizan (mensuales o trimestrales). En este caso se utiliza el promedio trimestral porque no es posible identificar a qué mes corresponden los ingresos del hogar. 
+3. Para un discusión en mayor profundidad sobre la estimación de la pobreza monetaria en Argentina, se puede consultar el capítulo 11 de Graña, J. (coord.) (2023), Cuentas Nacionales e indicadores socioeconómicos : metodologías, debates críticos y aplicaciones a la economía argentina. 1ra edición. Florencio Varela : Editorial CONUSU. 404 p.
